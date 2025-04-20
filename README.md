@@ -67,8 +67,20 @@ templates/tasks/: HTML templates for login, register, task list, and forms.
 static/js/: JavaScript for client-side functionality.
 
 Screenshots
-(Optional: Add screenshots of the app, e.g., task list, form)
-Future Enhancements
+
+
+
+
+![Image](https://github.com/user-attachments/assets/003a408e-8e56-4bf8-b67f-5a67bd87334c) ![Image](https://github.com/user-attachments/assets/872bce37-1177-4f70-b920-5c91f0eba98c) ![Image](https://github.com/user-attachments/assets/d4e35e5c-646b-423d-86f8-72afe8c221d5) 
+
+  
+
+
+
+
+
+
+FUTURE FUNCTIONALITIES TO BE ADDED
 
 Add task search and filter functionality.
 Implement form validation error messages.
